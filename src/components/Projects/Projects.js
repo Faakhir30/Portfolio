@@ -44,10 +44,10 @@ function Projects() {
             <ProjectCard
               imgPath={p}
               isBlog={false}
-              title="Portfolio"
-              description="Personal website built for a user with ThreeJS, html, css, and js. Conatains 7 sections and renders 3D models that takes website to next level"
-              ghLink="https://github.com/Faakhir30/Portfolio"
-              demoLink=""              
+              title="LuminaSort"
+              description="ReactJS app that shows visualizations of different type of sorts including bubble, insertion, merge and quick sort."
+              ghLink="https://github.com/Faakhir30/LuminaSort"
+              demoLink="https://lumina-sort.vercel.app/"              
             />
           </Col>
         </Row>
